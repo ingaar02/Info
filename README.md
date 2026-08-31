@@ -1,2 +1,3 @@
-# The repo is about My information as an employee 
+# The repo is about information of Me as an employee 
 Information for any job applications
+Portfolio included
